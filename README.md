@@ -2,7 +2,7 @@
 
 The estimates in the folders are from the paper "Fiscal Progressivity of the U.S. Federal and State Governments" (J. Fleck, J. Heathcote, K. Storesletten, G. Violante; December 2024).
 
-Please cite the paper LINK when using the estimates.
+Please cite the paper when using the estimates.
 
 ### Readme (see Appendix O)
 
