@@ -4,7 +4,7 @@ The estimates in the folders are from the paper "Fiscal Progressivity of the U.S
 
 Please cite the [paper](https://www.nber.org/system/files/working_papers/w33385/w33385.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED) when using the estimates.
 
-### Readme (see Appendix O)
+### Readme (see Appendix Q)
 
 For each of our sample year pairs (2005/06, 2010/11 and 2015/16), the spreadsheets on this webpage contain five sets of progressivity estimates for our baseline tax and transfer specification (see Sections 3 and 4). The estimates differ regarding the sorts of taxes and transfers included in household disposable income:
 
