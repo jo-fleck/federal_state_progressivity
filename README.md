@@ -2,7 +2,7 @@
 
 The estimates in the folders are from the paper "Fiscal Progressivity of the U.S. Federal and State Governments" (J. Fleck, J. Heathcote, K. Storesletten, G. Violante; ~~January 2025~~ October 2025).
 
-Please cite the [paper](https://www.nber.org/system/files/working_papers/w33385/w33385.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED) when using the estimates.
+Please cite the [paper](https://jofleck.com/files/wps/FHSV_Oct1_2025.pdf) when using the estimates.
 
 ### Readme (see Appendix Q)
 
